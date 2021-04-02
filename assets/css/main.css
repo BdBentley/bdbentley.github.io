@@ -1293,7 +1293,7 @@ input, select, textarea {
 		#header .logo {
 			width: 4rem;
 			height: 4rem;
-			line-height: 5.25rem;
+			line-height: 72px;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
 		}
